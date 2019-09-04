@@ -1,0 +1,10 @@
+extends _layouts/default
+
+block variables
+  - var title= 'ARTICLE'
+
+block content
+  .main
+    h1.page-header= title
+    p= 'Here is the article page of HTML-Mock.'
+    a(href= './index.html') Index
