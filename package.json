@@ -17,6 +17,7 @@
     "grunt-contrib-pug": "^2.0.0",
     "grunt-contrib-sass": "^1.0.0",
     "grunt-contrib-watch": "^1.1.0",
+    "kind-of": "^6.0.3",
     "minimist": "^1.2.5",
     "sass": "^1.26.3"
   }
